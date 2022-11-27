@@ -1,1 +1,1 @@
-An implementation of [https://github.com/ssloy/tinyrenderer](tinyrender) written in Odin
+An implementation of [tinyrenderer](https://github.com/ssloy/tinyrenderer) written in Odin
